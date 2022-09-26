@@ -15,7 +15,7 @@ Notes
 * Comandos no Terminal 
  
 * *NPM Node Package Manager - gerenciador de pacotes node*
-* *NPM Node Package eXecuter - executor de pacotes*
+* *NPX Node Package eXecuter - executor de pacotes*
 
 * npm init --yes
 * npm install -D cypress (dependência de desenvolvimento)
